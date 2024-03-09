@@ -1,3 +1,50 @@
-#title{
- margin:2px;
+.title{
+border:10px;
+border: 2px solid green;
+ margin:auto;
+ margin-bottom: 50px;
+ width: 300px;
+ padding: 10px;
+ text-align: center;
+ color:rgb(250, 72, 41);
+}
+
+body {
+        background-image: url('https://images.creativemarket.com/0.1.0/ps/3966845/1820/1300/m1/fpnw/wm1/uigbgckp4zosl7j442mdy4bqgjkrfxthrbgrwalmnpzu3cgoxh85ffnekaq2qsur-.jpg?1517999409&s=4b1285141fd76d6c49a60734767beda1');
+        background-size:cover ;
+      }
+
+.button
+{
+    display: block;
+    margin: auto;
+    margin-left: 800px;
+    margin-bottom: 5px;
+    width: 150px;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+.mushroom
+{
+    background-color: rgb(199, 96, 96);
+}
+
+.carrot
+{
+    background-color: orangered;
+    
+}
+
+.paneer
+{
+    background-color: azure;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
 }
