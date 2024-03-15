@@ -1,2 +1,2 @@
-# odin-recipes
-recipes
+
+This features a repository of recipes.
