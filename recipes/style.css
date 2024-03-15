@@ -1,6 +1,25 @@
 .contain
 {
-    border-radius: 12 px;
+    border-radius: 30px;
     border:2px solid purple;
-    background-color: rgb(207, 119, 241);
+    background-color: rgb(226, 186, 241);
+    margin: 100px 200px;
+    /*text-align: center;*/
+}
+p
+{
+    text-align: center;
+
+}
+
+img
+{
+    padding-left: 100px;
+}
+
+h1,
+h2
+{
+    text-align: center;
+    color: #460c46;
 }
